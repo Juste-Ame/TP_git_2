@@ -4,4 +4,19 @@ L1-Z
 TP git:
  1.$mkdir TP_git
  2.$mkdir DEV_A et a l'interieur du dossier DEV_A $git init
- 
+ $git congif --global user.name "developpeur_A"
+3.$git config --list
+5.$git status
+6.$git add BAC.png
+$git add style.css
+$git add hello.html
+$git status
+$git commit -m "premier commit"
+7.$git tag "ma_page_web"
+8.$git tag
+10.
+$git remote add origin https://github.com/Juste-Ame/TP_git_2.git
+$git branch -M main
+$git push -u origin main
+11.$git remote -v
+12.$
